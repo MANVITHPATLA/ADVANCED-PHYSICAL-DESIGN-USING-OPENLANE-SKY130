@@ -3,7 +3,7 @@
 
 _SECTION A - Inception of open source EDA, OpenLANE and Sky130PDK_
 
-*DAY 1: "How to talk to computers"* implies Introduction to QFN-48 Package, chip, pads, core, die and IPs
+DAY 1: *"How to talk to computers"* implies Introduction to QFN-48 Package, chip, pads, core, die and IPs
 
 Chip's refer to  integrated circuits that are the central part of the system.
 
